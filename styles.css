@@ -363,16 +363,19 @@ img {
 .work_img {
   box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
   border-radius: 0.5rem;
+  padding: 10px;
   overflow: hidden;
 }
 
 .work_img img {
   transition: 1s;
+  padding: 10px;
   cursor: pointer;
 }
 
 .work_img img:hover {
   transform: scale(1.1);
+  padding: 10px;
 }
 
 /* Contact */
